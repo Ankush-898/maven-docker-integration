@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>mave_docker</finalName>
+    <finalName>maven_docker</finalName>
   </build>
 </project>
